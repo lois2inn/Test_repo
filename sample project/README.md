@@ -28,8 +28,7 @@ Zuber, a new ride-sharing service launching in **Chicago**, is exploring trends 
 
 ### ER Diagram
 
-![Zuber ERD](./sample project/Zuber_ERD.png)
-
+<img src = "Zuber_ERD.png" width=700 />
 ---
 
 ### 📈 Key Findings
